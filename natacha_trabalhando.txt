@@ -1,0 +1,10 @@
+Criar card "Assistências disponíveis"
+Criar seção "O que você precisa resolver?"
+Criar seção "Resolver seu problema pode ser simples"
+Criar seção "Você presta serviços?"
+Criar demais seções necessárias
+
+
+Criar interação do botão "Solicitar assistência"
+Criar modal de solicitação
+Criar seleção do tipo de assistência
