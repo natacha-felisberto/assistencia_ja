@@ -849,3 +849,37 @@ a {
     color: var(--sea-green-light);
 
 }
+
+.lista-assistencias {
+    display: none;
+    margin-top: 20px;
+}
+
+.lista-assistencias button {
+
+    width: 100%;
+
+    padding: 14px;
+
+    margin-bottom: 10px;
+
+    background-color: var(--black-card);
+
+    color: var(--white);
+
+    border: none;
+
+    border-radius: 10px;
+
+    text-align: left;
+
+    font-size: 1rem;
+
+    cursor: pointer;
+}
+
+.lista-assistencias button:hover {
+
+    background-color: var(--sea-green);
+
+}

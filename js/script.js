@@ -4,6 +4,10 @@ const modal = document.getElementById("modalAssistencia");
 
 const botaoFechar = document.getElementById("btnFechar");
 
+const botaoEscolher = document.getElementById("btnEscolher");
+
+const listaAssistencias = document.getElementById("listaAssistencias");
+
 
 botaoSolicitar.addEventListener("click", function() {
 
@@ -15,5 +19,12 @@ botaoSolicitar.addEventListener("click", function() {
 botaoFechar.addEventListener("click", function() {
 
     modal.style.display = "none";
+
+});
+
+
+botaoEscolher.addEventListener("click", function() {
+
+    listaAssistencias.style.display = "block";
 
 });
